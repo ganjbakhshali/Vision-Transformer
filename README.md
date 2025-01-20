@@ -24,8 +24,8 @@ To run the notebook, you will need:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/vision-transformer.git
-   cd vision-transformer
+   https://github.com/ganjbakhshali/Vision-Transformer.git
+   cd Vision-Transformer
    ```
 2. Create a virtual environment (optional):
    ```bash
